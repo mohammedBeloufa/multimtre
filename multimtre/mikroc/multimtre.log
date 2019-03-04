@@ -1,0 +1,25 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo48 -N"C:\Users\mohamed\Desktop\qq\mikroc\multimtre.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\mohamed\Desktop\qq\mikroc\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\mohamed\Desktop\qq\mikroc\" "multimtre.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Button.mcl" "__Lib_ADC_A_C.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	multimtre.c
+warning: 42	1506	Implicit conversion of pointer to int	multimtre.c
+warning: 86	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 87	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 88	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 89	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 90	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 91	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 92	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 93	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 135	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 137	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 139	1508	Implicit conversion of int to ptr	multimtre.c
+warning: 168	1508	Implicit conversion of int to ptr	multimtre.c
+diagnostics: 188	123	Compiled Successfully	multimtre.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+warning: 4	1511	IRP bit must be set manually for indirect access to 'valeur' variable	multimtre.c
+hint: 0	1144	Used RAM (bytes): 198 (56%)  Free RAM (bytes): 154 (44%)	Used RAM (bytes): 198 (56%)  Free RAM (bytes): 154 (44%)
+hint: 0	1144	Used ROM (program words): 4346 (53%)  Free ROM (program words): 3846 (47%)	Used ROM (program words): 4346 (53%)  Free ROM (program words): 3846 (47%)
+diagnostics: 0	125	Project Linked Successfully	multimtre.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'multimtre.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 03 „«—” 2019, 16:06:08	multimtre.mcppi
